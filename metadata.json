@@ -1,0 +1,6 @@
+{
+  "name": "Pinterest アプリ向け プライバシーポリシー & 利用規約 テンプレート",
+  "description": "Pinterest API審査提出用のプライバシーポリシー、利用規約、運営者情報、デプロイガイドをまとめた静的Webサイト",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
