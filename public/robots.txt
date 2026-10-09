@@ -1,0 +1,13 @@
+# Robots.txt for Pinterest Developer Review & SEO
+User-agent: *
+Allow: /
+Allow: /privacy
+Allow: /terms
+
+# Pinterest Bot specific allowance
+User-agent: Pinterestbot
+Allow: /
+Allow: /privacy
+Allow: /terms
+
+Sitemap: https://your-pin-app.vercel.app/sitemap.xml
